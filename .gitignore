@@ -1,0 +1,6 @@
+obj/
+*.deps.json
+.vs
+*.zip
+*.dll
+bin/*/
